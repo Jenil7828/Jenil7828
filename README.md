@@ -17,6 +17,9 @@ Databases: MySQL, PostgreSQL, MongoDB
 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jenil-rathod-7828j1819)
 
+![GitHub followers](https://img.shields.io/github/followers/Jenil7828?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Jenil7828?style=social)
+
 <!--
 **Jenil7828/Jenil7828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
