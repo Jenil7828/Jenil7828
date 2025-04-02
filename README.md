@@ -16,6 +16,17 @@ Databases: MySQL, PostgreSQL, MongoDB
 
 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jenil-rathod-7828j1819)
+<a href="https://discord.com/users/jenilrathod7828" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" width="30px" alt="Discord"/>
+</a>
+
+<a href="https://x.com/JenilRathod7828" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/x.svg" width="30px" alt="Twitter"/>
+</a>
+
+<a href="https://portfolio-cjap.onrender.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/web.svg" width="30px" alt="Portfolio"/>
+</a>
 
 ![GitHub followers](https://img.shields.io/github/followers/Jenil7828?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Jenil7828?style=social)
