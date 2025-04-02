@@ -14,16 +14,17 @@ Databases: MySQL, PostgreSQL, MongoDB
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jenil7828&show_icons=true&theme=dark)
 
-📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jenil-rathod-7828j1819)
+📫 Contact Me<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jenil-rathod-7828j1819)<br/>
 <a href="https://discord.com/users/jenilrathod7828" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg" width="30px" alt="Discord"/>
 </a>
-
+<br/>
 <a href="https://x.com/JenilRathod7828" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/x.svg" width="30px" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
 </a>
 
+<br/>
 <a href="https://portfolio-cjap.onrender.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/web.svg" width="30px" alt="Portfolio"/>
 </a>
